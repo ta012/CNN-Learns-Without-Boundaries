@@ -1,0 +1,3 @@
+conda create -n nn_experiments -y python=3.6
+conda activate nn_experiments
+conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch
