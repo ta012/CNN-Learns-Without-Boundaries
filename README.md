@@ -15,7 +15,7 @@ Do CNNs require edes/boundaries/pixelvariation to learn? Can CNNs learn without 
 ### Model Output Mask 
 
 
-## Refrences
+## References
 
 model.py, loss.py, helper.py are taken from #https://github.com/usuyama/pytorch-unet
 
