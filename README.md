@@ -1,4 +1,4 @@
-# CNNWithoutBoundaries
+# CNNs-Learns-Without-Boundaries
 Do CNNs require edes/boundaries/pixelvariation to learn? Can CNNs learn without explicit pixel variation(information not explicilty represented by pixels in an image)
 
 ### Problem Statement : Given two points,can a cnn learn a function that draws a circle with the points as the ends of its diameter.  </br> 
